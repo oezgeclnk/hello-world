@@ -7,9 +7,16 @@ h1 {
   color: green;
 }
 
-p {
+.welcome {
   display: block;
   width: 400px;
   margin: 50px auto;
   font: 40px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  color:green;
+  background-color:black;
+  opacity: 0.5;
 }
+p{
+  font-size: 30px;
+  font:  Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+ 
