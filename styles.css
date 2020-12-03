@@ -5,6 +5,7 @@
 h1 {
   font-width: bold;
   color: green;
+  font: 50px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
 
 .welcome {
